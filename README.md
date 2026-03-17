@@ -1,5 +1,7 @@
 # Ultrasonic Obstacle Avoidance
 
+This project presents the development and experimental evaluation of a reactive obstacle avoidance algorithm for a mobile robot using ultrasonic sensors. Due to the inherent noise and uncertainty in ultrasonic measurements, the study investigates the impact of filtering techniques and parameter tuning on navigation performance. A baseline rule-based controller is compared with an improved version incorporating median filtering and directional correction. Experimental results across multiple scenarios demonstrate that the enhanced controller significantly reduces collision rates and improves motion smoothness. The findings highlight the importance of sensor data preprocessing and parameter optimization in robust robot navigation systems.
+
 Development and optimization of an obstacle avoidance algorithm for a mobile robot using ultrasonic sensors in ROS 2 Jazzy on Ubuntu 24.04.
 
 ## Overview
